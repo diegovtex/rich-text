@@ -120,6 +120,7 @@ const sanitizerConfig = {
     'h6',
     'ul',
     'ol',
+    'sup',
     'li',
   ],
   allowedAttributes: {
